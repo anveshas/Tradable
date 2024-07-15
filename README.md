@@ -10,8 +10,8 @@ Tradable is an interactive advisory and analytical software for stocks. It is ca
 
 ## Technologies Used
 - **Programming Language**: C++
-- **Database**: MySQL
-- **Backend**: PHP
+<!--- **Database**: MySQL
+- **Backend**: PHP -->
 - **File Handling**: Implemented for data storage and retrieval
 
 ## How to Run
